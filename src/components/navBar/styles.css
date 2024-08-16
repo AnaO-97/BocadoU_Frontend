@@ -1,0 +1,6 @@
+.otherLinks{
+    display: flex;
+    width: 330px;
+    margin-left: 700px;
+    justify-content: space-between;
+}
